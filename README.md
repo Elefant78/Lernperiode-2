@@ -18,3 +18,8 @@ Zeit in die Module investieren, vor allem wenn es um Portfolios geht. Ich habe
 gemerkt, dass ich diese manchmal vergessen.(119)
 
 ## Arbeitspaket 24.10.23
+
+- [ ] Chrome reperieren
+- [ ] 319 E-Prorfolio
+- [ ] arrays nochmals anschauen
+
