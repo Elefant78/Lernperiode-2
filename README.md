@@ -23,6 +23,14 @@ gemerkt, dass ich diese manchmal vergessen.(119)
 - [X] 319 E-Prorfolio
 - [X] arrays nochmals anschauen
 
+Heute hatte ich ein kleines Erfolgs Ergebnis, denn ich konnte zum ersten mal alle meine Arbeitpakete erledigen, obwohl diese ziemlich einfach waren. Wie zum Beispiel Chrome zu reparier, haben mir dies viel weitergeholfen. Arrays nochmal anzuschauen war sehr wichtig den ich war sehr unsicher mit Arrays.
 
-      
+## Arbeitspacket 31.10.23
+
+- [ ]Roblox projekt konkret plannen und entscheiden
+- [ ]E Portfolio 319 Handlungsziel 2 & 3
+- [ ] Debugging anschauen
+- [ ] Hausaufgaben 216
+
+Dieses mal konnte ich nicht alle Arbeitspakete erledigen denn ein paar waren grösser als gedacht. Das Roblox planen und Entscheiden konnten wir gut machen, wir haben nun einen Konkretten Plan und wissen was wir machen. Als ich mit dem Portfolio angefangen habe konnte ich nicht aufhören, wenn ich einmal in der Arbeitszone bin kann ich nicht aufhören, dadurch konnte/wollte ich nicht andere Arbeitspakete machen.(64)
 
