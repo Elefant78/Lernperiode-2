@@ -19,7 +19,10 @@ gemerkt, dass ich diese manchmal vergessen.(119)
 
 ## Arbeitspaket 24.10.23
 
-- [ ] Chrome reperieren
-- [ ] 319 E-Prorfolio
-- [ ] arrays nochmals anschauen
+- [X] Chrome reperieren
+- [X] 319 E-Prorfolio
+- [X] arrays nochmals anschauen
+
+
+      
 
