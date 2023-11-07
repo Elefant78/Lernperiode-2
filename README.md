@@ -34,3 +34,7 @@ Heute hatte ich ein kleines Erfolgs Ergebnis, denn ich konnte zum ersten mal all
 
 Dieses mal konnte ich nicht alle Arbeitspakete erledigen denn ein paar waren grösser als gedacht. Das Roblox planen und Entscheiden konnten wir gut machen, wir haben nun einen Konkretten Plan und wissen was wir machen. Als ich mit dem Portfolio angefangen habe konnte ich nicht aufhören, wenn ich einmal in der Arbeitszone bin kann ich nicht aufhören, dadurch konnte/wollte ich nicht andere Arbeitspakete machen.(64)
 
+
+## Arbeitspaket 7.11.23
+
+- [ ] Eportfolio Fertig machen M 319
