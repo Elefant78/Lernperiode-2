@@ -38,3 +38,12 @@ Dieses mal konnte ich nicht alle Arbeitspakete erledigen denn ein paar waren gr√
 ## Arbeitspaket 7.11.23
 
 - [ ] Eportfolio Fertig machen M 319
+
+Es war vielleicht einbischen egoistisch den ganzen morgen nur an dem E-Portfolio zu arbeiten, doch ich brauchte die Zeit umbedingt. Ich habe es, meiner Meinung nach, gut geplant mit dem Potfolio, ich wurde fast Fertig mit diesem. Ich habe den ganzen Morgen am Portfolio 319 gearbeitet, ich habe folgenede Kapitel fertig geschrieben. Fehler/Warnmahrungen, den Unterschied Editor und Entwicklungsberreich, Funktionen und Konventinen.(61 W√∂rter)
+
+## Arbeitspaket 14.11.23
+
+- [ ]Einen Dna Algohritmus verstehen 
+- [ ]Vielleicht schuauen wie man hangman programmieren kann
+- [ ]Chemie lernen
+      
