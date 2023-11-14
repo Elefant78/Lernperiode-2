@@ -45,5 +45,5 @@ Es war vielleicht einbischen egoistisch den ganzen morgen nur an dem E-Portfolio
 
 - [ ]Einen Dna Algohritmus verstehen = Needleman-wunsch 
 - [ ]Vielleicht schuauen wie man hangman programmieren kann
-- [ ]
+- [ ] 
       
