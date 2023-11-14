@@ -43,7 +43,7 @@ Es war vielleicht einbischen egoistisch den ganzen morgen nur an dem E-Portfolio
 
 ## Arbeitspaket 14.11.23
 
-- [ ]Einen Dna Algohritmus verstehen = Needleman-wunsch 
-- [ ]Vielleicht schuauen wie man hangman programmieren kann
-- [ ] 
+- []Einen Dna Algohritmus verstehen = Needleman-wunsch 
+- []Vielleicht schuauen wie man hangman programmieren kann
+- [] 
       
