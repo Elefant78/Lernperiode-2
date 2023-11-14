@@ -43,7 +43,15 @@ Es war vielleicht einbischen egoistisch den ganzen morgen nur an dem E-Portfolio
 
 ## Arbeitspaket 14.11.23
 
-- []Einen Dna Algohritmus verstehen = Needleman-wunsch 
-- []Vielleicht schuauen wie man hangman programmieren kann
-- [] 
+- [ ]Einen Dna Algohritmus verstehen = Needleman-wunsch 
+- [ ]Vielleicht schuauen wie man hangman programmieren kann
+
+Heute habe ich zum ersten Mal mit winforms gearbeitet, ich finde es ist ziemlich kompliziert, doch ich weiss das ich mit ein Paar YouTube Videos und dem Input von Herrn Colic es lernen werde. Dieser DNA-Algorithmus ist immer noch unverständlich, doch Herr Colic hat mir jedoch gesagt, dass ich Arrays gut können muss für das, also kann ich daran ansetzten. (61 Wörter)
+
+
+## Arbeitspaket 21.11.23
+
+- [ ] Ich schrreibe an den Hangman Code weiter, so das er überprüft ob der Buchstabe im Wort enthalten ist.
+- [ ] Ich schaue mir Arrays Youtube Videos an um mich für das DNA-Projekt vorzubereiten
+- [ ] Ich mach eine Übung, wie einen Notenrechner, um Arrays zu lernen
       
