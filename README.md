@@ -51,7 +51,9 @@ Heute habe ich zum ersten Mal mit winforms gearbeitet, ich finde es ist ziemlich
 
 ## Arbeitspaket 21.11.23
 
-- [ ] Ich schrreibe an den Hangman Code weiter, so das er überprüft ob der Buchstabe im Wort enthalten ist.
-- [ ] Ich schaue mir Arrays Youtube Videos an um mich für das DNA-Projekt vorzubereiten
+- [x] Ich schrreibe an den Hangman Code weiter, so das er überprüft ob der Buchstabe im Wort enthalten ist.
+- [x] Ich schaue mir Arrays Youtube Videos an um mich für das DNA-Projekt vorzubereiten
 - [ ] Ich mach eine Übung, wie einen Notenrechner, um Arrays zu lernen
-      
+
+Diese Woche hatten wir zum ersten Mal Distanzunterricht, es war speziell und interessant. Doch ich habe mir alte Gewohnheiten wieder angewöhnt, wie zum Bespiel das ich alles am letzten Tag mache. Darum habe ich mich ziemlich gestresst alle Arbeitspakte fertig zu stellen. Doch am Schluss vom Tag konnte ich das meiste erledigen.
+
