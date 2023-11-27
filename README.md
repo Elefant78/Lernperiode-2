@@ -56,4 +56,5 @@ Heute habe ich zum ersten Mal mit winforms gearbeitet, ich finde es ist ziemlich
 - [ ] Ich mach eine Übung, wie einen Notenrechner, um Arrays zu lernen
 
 Diese Woche hatten wir zum ersten Mal Distanzunterricht, es war speziell und interessant. Doch ich habe mir alte Gewohnheiten wieder angewöhnt, wie zum Bespiel das ich alles am letzten Tag mache. Darum habe ich mich ziemlich gestresst alle Arbeitspakte fertig zu stellen. Doch am Schluss vom Tag konnte ich das meiste erledigen.
+![image](https://github.com/Elefant78/Lernperiode-2/assets/142886162/a8e63879-1c52-48d8-9448-ebe9568bc08f)
 
