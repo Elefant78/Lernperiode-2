@@ -58,3 +58,14 @@ Heute habe ich zum ersten Mal mit winforms gearbeitet, ich finde es ist ziemlich
 Diese Woche hatten wir zum ersten Mal Distanzunterricht, es war speziell und interessant. Doch ich habe mir alte Gewohnheiten wieder angewöhnt, wie zum Bespiel das ich alles am letzten Tag mache. Darum habe ich mich ziemlich gestresst alle Arbeitspakte fertig zu stellen. Doch am Schluss vom Tag konnte ich das meiste erledigen.
 ![image](https://github.com/Elefant78/Lernperiode-2/assets/142886162/a8e63879-1c52-48d8-9448-ebe9568bc08f)
 
+## Arbeitspaket 28.11.23
+
+- [x] Hang-man code so programmieren das ein Count hoch geht wenn man falsch liegt
+- [X] Übung Notenrechner fertig machen
+- [x] E Portfolio für 162 anfangen 
+
+Heute haben wir zwei Wochen nacheinnander OPL und DPL, Ich finde ich konnte viele Dinge erleidigen. Hangman wurde ein bissschen komplexer und ich habe nicht auf anhieb verstanden was ich machen muss, daher musste ich mir ein Youtube Video fürs Verständnis. Ich habe denn Notenrechner ebenfalls fertig machen und habe mit dem E Portfolio von 162 was ich in 2 Wochen abgegeben habe.
+
+## Arbeitspacket 5.11.23
+
+- [ ] Projekt Majoda weiter arebieten mit Herr Zefaj
