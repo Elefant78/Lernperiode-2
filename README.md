@@ -69,3 +69,11 @@ Heute haben wir zwei Wochen nacheinnander OPL und DPL, Ich finde ich konnte viel
 ## Arbeitspacket 5.11.23
 
 - [ ] Projekt Majoda weiter arebieten mit Herr Zefaj
+- [ ] E Portfolio 162
+Heute haben Herr Zefaj und ich am Projekt: Needleman-Wunsch, weitergearbeitet. Da wir schon weit waren, sind wir nun am letzten Schliff und fast fertig. Ich habe mehr an dem E-Portfolio gearbeitet. Ich habe angefangen und bin so etwa zur Hälfte fertig. Nächst Woche werde ich wieder an dem Hang-man Projekt arbeiten. (51 Wörter)
+
+## Arbeitspacket 12.12.23
+
+- [ ] Hang-man weiter arbeitet
+- [ ] Aoc tag 1
+- [ ] 
