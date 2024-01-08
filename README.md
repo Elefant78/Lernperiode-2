@@ -76,5 +76,6 @@ Heute haben Herr Zefaj und ich am Projekt: Needleman-Wunsch, weitergearbeitet. D
 ## Arbeitspacket 12.12.23
 
 - [ ] Hang-man weiter arbeitet
-- [ ] Aoc tag 1
+- [ ] Pitch für Herr Mojado machen
+- [ ] Moodle Test 117
 - [ ] 
